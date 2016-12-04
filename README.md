@@ -11,3 +11,7 @@ Das Verzeichnis *htdocs* auf einem Webserver installieren.
 Das Verzeichnis *htdocs/db* muss für den Webserver schreibbar sein.
 
 In der *htdocs/application/config.php* die Baseurl und das Passwort für den Bearbeitungsmodus definieren.
+
+*/login* - Passwort eingeben - die Hinzufüge- und Bearbeitungsfelder sind jetzt sichtbar.
+
+*/logout* um sich auszuloggen.
