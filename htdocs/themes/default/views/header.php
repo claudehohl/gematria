@@ -12,6 +12,7 @@ $theme = $this->config->item('theme');
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=320" />
 		<title><?php echo $page_title; ?></title>
 		<link rel="shortcut icon" href="<?php echo base_url() . 'favicon.ico'; ?>" />
 <?php
